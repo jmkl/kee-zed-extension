@@ -1,0 +1,4 @@
+name = "KEE"
+grammar = "kee"
+path_suffixes = ["kee"]
+line_comments = ["# "]

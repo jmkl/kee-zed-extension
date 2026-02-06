@@ -1,0 +1,11 @@
+id ="kee-extension"
+name = "Kee LSP"
+version = "0.0.1"
+schema_version = 1
+author = "jmkl"
+description = "Stupid lsp"
+repository = "https://github.com/jmkl"
+
+[grammars.kee]
+repository = "https://github.com/jmkl/tree-sitter-kee"
+commit = "877eb4a0375b4b4a92a53c754a53ae09de2b34c7"
